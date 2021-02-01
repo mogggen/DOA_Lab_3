@@ -1,0 +1,4 @@
+I learned to create array/vector pointers.
+it was problematic when to know to use a method from the value of the pointer, to learn derefrence first
+aka (*database). instead of *(database).
+less copy-pasting in future labs would be appreciated. thanks.
